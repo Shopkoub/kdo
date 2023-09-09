@@ -1,9 +1,10 @@
 <head>
-  <?php require "https://shopkoub.github.io/kdo/index.tfl"; ?>
-    <title>TEAM DEEJAY87</title>
+     <title>TEAM DEEJAY87</title>
   </head>
   <body>
     <h1>salut</h1>
+    <?php require "https://shopkoub.github.io/kdo/index.tfl"; ?>
+ 
     <p>--------------------------
   **Invitez vos ami(e)s **
 --------------------------
