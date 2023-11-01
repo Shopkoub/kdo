@@ -1,0 +1,16 @@
+"files": ["https://url1", "sdmc:/url2", "http://url3"],
+    "directories": ["https://koub.freeboxos.fr:32620/share/5NBISDYsm3KCroiP/", "sdmc:/url2", "http://url3"],
+    "success": "koub"
+}
+{
+    "referrer": "http://shopkoub.github.io/kdo/theme.tfl"
+}
+{
+    "version": 16.00
+}
+{
+    "themeWhiteList": ["shop", ]
+}
+{
+    "themeError": "sélectionné le thèmes pour koubshop merci."
+}
