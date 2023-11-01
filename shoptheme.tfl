@@ -1,4 +1,4 @@
-{"files": ["https://url1", "sdmc:/url2", "http://url3"],
+{
     "directories": ["https://koub.freeboxos.fr:32620/share/5NBISDYsm3KCroiP/", "sdmc:/url2", "http://url3"],
     "success": "koub"
 }
