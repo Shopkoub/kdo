@@ -7,5 +7,5 @@
  "nroInstallPath": "sdmc:/switch/OpenArenaNX/OpenArenaNX.nro" ,
     "assetRegex": "Q3",
  "assetIndex": 1,
-    "customAssetString": "https://github.com/faithvoid/OpenArenaNX" ,
+    "customAssetString": "https://github.com/faithvoid/OpenArenaNX/releases/download/0.7.8.1/Q3ArenaNX-0.7.8.1.zip" ,
   }
