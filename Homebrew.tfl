@@ -1,13 +1,10 @@
-{
-"homebrew" 
-  {
-    "tag_name": "jksv",
-    "name": "JKSVo",
-    "assets": [
-      {
-        "size": 15199008,
-        "browser_download_url": "https://github.com/J-D-K/JKSV/releases/download/02%2F23%2F2023/JKSV.nro"
-      }
-    ]
-}
-
+[
+    {
+        "name": "Peppa",
+        "author": "BestPig",
+        "description": "Peppa Pig Demake",
+        "category": "Game",
+        "nroInstallPath": "sdmc:/switch/jksv.nro",
+        "url": ""
+    }
+]
