@@ -3,7 +3,7 @@
 :["name": "NXgallery",
     "description": "photo",
     "category": "Tool",
-    "url": "https://github.com/iUltimateLP/NXGallery/releases/download/2.0.0/NXGallery_2.0.0-42bd544.zip"
+    "url": "https://github.com/rashevskyv/dbi/releases/download/658/DBI.nro"
   }
 ]
 {
@@ -15,5 +15,5 @@
  "nroInstallPath": "sdmc:/switch/OpenArenaNX/OpenArenaNX.nro" ,
     "assetRegex": "Q3",
  "assetIndex": 1,
-    "customAssetString": "https://github.com/iUltimateLP/NXGallery/releases/download/2.0.0/NXGallery_2.0.0-42bd544.zip" ,
+    "customAssetString": "https://github.com/J-D-K/JKSV/releases/download/02%2F23%2F2023/JKSV.nro" ,
   }
