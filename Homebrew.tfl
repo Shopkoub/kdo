@@ -1,3 +1,17 @@
 {
-    "name": "NXgalery","author": "faithvoid","description": "album","category": "homebrew","url": "https://github.com/iUltimateLP/NXGallery/releases/download/2.0.0/NXGallery_2.0.0-42bd544.zip","nroInstallPath": "sdmc:/switch/OpenArenaNX/OpenArenaNX.nro","assetRegex": "Q3","assetIndex": 1,"customAssetString": "https://github.com/iUltimateLP/NXGallery/releases/download/2.0.0/NXGallery_2.0.0-42bd544.zip",
+    "name": "NXgallery",
+    "description": "photo",
+    "category": "Tool",
+    "url": "https://github.com/iUltimateLP/NXGallery/releases/download/2.0.0/NXGallery_2.0.0-42bd544.zip"
+  }
+{
+    "name": "NXgalery",
+ "author": "faithvoid",
+    "description": "album",
+    "category": "homebrew",
+    "url": "https://github.com/iUltimateLP/NXGallery/releases/download/2.0.0/NXGallery_2.0.0-42bd544.zip",
+ "nroInstallPath": "sdmc:/switch/OpenArenaNX/OpenArenaNX.nro" ,
+    "assetRegex": "Q3",
+ "assetIndex": 1,
+    "customAssetString": "https://github.com/iUltimateLP/NXGallery/releases/download/2.0.0/NXGallery_2.0.0-42bd544.zip" ,
   }
