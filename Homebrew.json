@@ -3,9 +3,9 @@
 // "author": "faithvoid", // auteur de l'application homebrew, utilise le nom de l'auteur du référentiel (ou customAssetString, s'il existe) s'il n'est pas spécifié, je recommande de le laisser non défini pour les référentiels github
     "description": "Quake III Arena (port)", // description, utilise une courte description de GitHub si elle n'est pas spécifiée
     "category": "Jeu", // catégorie, peut être n'importe quelle chaîne, utilise `Aucune catégorie` si elle n'est pas spécifiée
-    "url": "faithvoid/OpenArenaNX", // chaîne d'auteur/dépôt github, obligatoire
+    "url": "https://github.com/faithvoid/OpenArenaNX", // chaîne d'auteur/dépôt github, obligatoire
 // "nroInstallPath": "sdmc:/switch/OpenArenaNX/OpenArenaNX.nro" ​​// Chemin d'installation de NRO, `tinfoil trouvera automatiquement le nro et rebasera le fichier zip`, facultatif - par défaut `sdmc:/switch/${repo} /${repo}.nro`, `ne doit probablement être spécifié que pour les applications qui se comportent mal`
     "assetRegex": "Q3", // expression régulière à utiliser lors de la recherche d'actifs, utilise le premier actif correspondant, revient à AssetIndex, `facultatif`
 // "assetIndex": 1, // index d'actif à utiliser, par défaut 0 `(premier actif non-code source de la liste)`
-    "customAssetString": "faithvoid/Q3ArenaNX" // chaîne d'auteur/dépôt github distincte à utiliser pour l'auteur/nom de l'actif`(et le nom d'affichage, si cela n'est pas spécifié), facultatif`
+    "customAssetString": "https://github.com/faithvoid/OpenArenaNX" // chaîne d'auteur/dépôt github distincte à utiliser pour l'auteur/nom de l'actif`(et le nom d'affichage, si cela n'est pas spécifié), facultatif`
   }
