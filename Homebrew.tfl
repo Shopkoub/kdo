@@ -1,12 +1,12 @@
 {
-   "homebrew store"
+   "homebrew"
 :["name": "NXgallery",
     "description": "photo",
     "category": "Tool",
     "url": "https://github.com/rashevskyv/dbi/releases/download/658/DBI.nro"
   }
 ]
-{
+{"homebrew" :
     "name": "NXgalery",
  "author": "faithvoid",
     "description": "album",
