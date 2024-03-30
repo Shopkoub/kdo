@@ -1,11 +1,11 @@
 {
-    "name": "Q3ArenaNX",
+    "name": "NXgalery",
  "author": "faithvoid",
-    "description": "Quake III Arena (port)",
+    "description": "album",
     "category": "homebrew",
-    "url": "https://github.com/faithvoid/OpenArenaNX",
+    "url": "https://github.com/iUltimateLP/NXGallery/releases/download/2.0.0/NXGallery_2.0.0-42bd544.zip",
  "nroInstallPath": "sdmc:/switch/OpenArenaNX/OpenArenaNX.nro" ,
     "assetRegex": "Q3",
  "assetIndex": 1,
-    "customAssetString": "https://github.com/faithvoid/OpenArenaNX/releases/download/0.7.8.1/Q3ArenaNX-0.7.8.1.zip" ,
+    "customAssetString": "https://github.com/iUltimateLP/NXGallery/releases/download/2.0.0/NXGallery_2.0.0-42bd544.zip" ,
   }
