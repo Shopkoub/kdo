@@ -1,4 +1,4 @@
-[
+{"homebrew": [
   {
     "tag_name": "jksv",
     "name": "JKSVo",
@@ -11,3 +11,4 @@
     "body": "Hello World"
   }
 ]
+}
