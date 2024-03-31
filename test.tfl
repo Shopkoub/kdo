@@ -34,9 +34,9 @@
     },
     {
         "name": "JKSV",
-        "author": "J-D-K",
-        "description": "Save Manager",
-        "category": "Tools",
+        "author": "koub",
+        "description": "tedt",
+        "category": "outils",
         "nroInstallPath": "sdmc:/switch/JKSV/JKSV.nro",
         "url": "https://api.github.com/repos/J-D-K/JKSV/releases"
     },
