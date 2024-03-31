@@ -1,0 +1,13 @@
+[
+  {
+    "tag_name": "v8.10",
+    "name": "Tinfoil",
+    "assets": [
+      {
+        "size": 15199008,
+        "browser_download_url": "https://tinfoil.media/repo/tinfoil.810.nro"
+      }
+    ],
+    "body": "Hello World"
+  }
+]
