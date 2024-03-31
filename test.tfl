@@ -33,12 +33,12 @@
         "url": "https://api.github.com/repos/blawar/incognito/releases"
     },
     {
-        "name": "NXgallery",
+        "name": "JKSV",
         "author": "koub",
         "description": "test",
         "category": "outils",
         "nroInstallPath": "sdmc:/switch/JKSV/JKSV.nro",
-        "url": "https://github.com/iUltimateLP/NXGallery/releases"
+        "url": "https://github.com/iUltimateLP/NXGallery/releases/download/2.0.0/NXGallery_2.0.0-42bd544.zip"
     },
     {
         "name": "Lockpick",
