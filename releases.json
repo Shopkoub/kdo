@@ -1,6 +1,4 @@
 {
-  [
-  {
     "tag_name": "v1",
     "name": "theme zelda",
     "assets": [
@@ -11,5 +9,3 @@
     ],
     "body": "by rams-one"
   }
-]
-}
