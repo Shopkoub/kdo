@@ -97,12 +97,12 @@
         "url": "https://api.github.com/repos/exelix11/SwitchThemeInjector/releases"
     },
     {
-        "name": "pPlay",
-        "author": "Cpasjuste",
-        "description": "Video Player",
+        "name": "NXgalery",
+        "author": "koub",
+        "description": "album photo",
         "category": "Tools",
-        "nroInstallPath": "sdmc:/switch/pplay/pplay.nro",
-        "url": "https://api.github.com/repos/Cpasjuste/pplay/releases"
+        "nroInstallPath": "sdmc:/switch/NXGallery/NXgalery.nro",
+        "url": "https://github.com/iUltimateLP/NXGallery/releases"
     },
 	{
         "name": "Tinfoil Mod",
