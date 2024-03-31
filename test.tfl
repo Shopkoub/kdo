@@ -101,7 +101,7 @@
         "author": "koub",
         "description": "album photo",
         "category": "Tools",
-        "nroInstallPath": "sdmc:/switch/NXGallery/NXgalery.nro",
+        "nroInstallPath": "",
         "url": "https://github.com/iUltimateLP/NXGallery/releases"
     },
 	{
