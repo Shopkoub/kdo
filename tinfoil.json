@@ -1,13 +1,11 @@
-[
-  {
+{
     "tag_name": "v8.10",
-    "name": "Tinfoil",
+    "name": "koub",
     "assets": [
       {
         "size": 15199008,
-        "browser_download_url": "https://tinfoil.media/repo/tinfoil.810.nro"
+        "browser_download_url": "https://github.com/J-D-K/JKSV/releases/download/02%2F23%2F2023/JKSV.nro"
       }
     ],
-    "body": "Hello World"
+    "body": "Hello koub"
   }
-]
