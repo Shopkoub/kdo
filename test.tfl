@@ -101,8 +101,8 @@
         "author": "koub",
         "description": "album photo",
         "category": "Tools",
-        "nroInstallPath": "",
-        "url": "https://github.com/iUltimateLP/NXGallery/releases"
+        "nroInstallPath": "sdmc:/switch/NXGallery/NXGallery.nro",
+        "url": "https://github.com/iUltimateLP/NXGallery/releases/download/2.0.0/NXGallery_2.0.0-42bd544.zip"
     },
 	{
         "name": "Tinfoil Mod",
