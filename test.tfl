@@ -33,12 +33,12 @@
         "url": "https://api.github.com/repos/blawar/incognito/releases"
     },
     {
-        "name": "JKSV",
+        "name": "NXgallery",
         "author": "koub",
-        "description": "tedt",
+        "description": "test",
         "category": "outils",
         "nroInstallPath": "sdmc:/switch/JKSV/JKSV.nro",
-        "url": "https://api.github.com/repos/J-D-K/JKSV/releases"
+        "url": "https://github.com/iUltimateLP/NXGallery/releases"
     },
     {
         "name": "Lockpick",
