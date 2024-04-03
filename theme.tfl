@@ -1,1 +1,20 @@
-{"themes":["https://koub.freeboxos.fr:32620/share/P_xaMPZ4Izv-7h9i/koub-noel.zip", "https://koub.freeboxos.fr:32620/share/OCE8kJ9l2h7MOpwM/matrix.zip"],"success":"Bonjours,\nMerci de vous rendre dans la section option theme\nPuis sélectionner koub-noel\nVous accéderez à l'intégral de koubshop\nMerci"}
+{
+"homebrew":[
+    {
+        "name": "2B Atmosphere Theme",
+        "author": "Flying Poo",
+        "description": "2B Atmosphere Theme NSFW",
+        "category": "Theme",
+        "targetFilePath": "sdmc:/themes/Downloads/2BNude",
+        "url": "https://theexpertnoob.github.io/Gandalfsax/NX/2BNude.zip"
+    },
+    {
+        "name": "Game Mod",
+        "author": "Flying Poo",
+        "description": "Mod to allow Portal 2 to play with Nintendo servers blocked",
+        "category": "Mod",
+        "targetFilePath": "sdmc:/",
+        "url": "https://github.com/masagrator/PortalNXSideLoader/releases/download/1.4/Portal2-NoWeb-NXSideLoader.zip"
+    }
+]
+"themes":["https://koub.freeboxos.fr:32620/share/P_xaMPZ4Izv-7h9i/koub-noel.zip", "https://koub.freeboxos.fr:32620/share/OCE8kJ9l2h7MOpwM/matrix.zip"],"success":"Bonjours,\nMerci de vous rendre dans la section option theme\nPuis sélectionner koub-noel\nVous accéderez à l'intégral de koubshop\nMerci"}
